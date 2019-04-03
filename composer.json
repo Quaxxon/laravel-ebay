@@ -6,14 +6,7 @@
     "license": "MIT",
     "require": {
         "php": ">=5.5",
-        "dts/ebay-sdk-php": "dev-master"
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/Quaxxon/ebay-sdk-php"
-        }
-    ],
     "license": "MIT",
     "authors": [
         {
